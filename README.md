@@ -22,6 +22,12 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+<param ve-image
+       label="Fresh Roasted (Peanuts), 1887"
+       description="John Haberle (1856-1933)"
+       license="public domain"
+       url="https://iiif.juncture-digital.org/banner/?url=https://artgallery.yale.edu/collections/objects/23727>
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
