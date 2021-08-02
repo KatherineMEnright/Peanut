@@ -38,7 +38,7 @@ Peanuts
        label="Fresh Roasted (Peanuts), 1887"
        description="John Haberle (1856-1933)"
        license="public domain"
-       url="https://iiif.juncture-digital.org/banner/?url=https://artgallery.yale.edu/collections/objects/23727>
+       url="https://upload.wikimedia.org/wikipedia/commons/5/50/John_Haberle_-_Fresh_Roasted_%28Peanuts%29_-_1979.8_-_Yale_University_Art_Gallery.jpg">
 
 ## Map
 
