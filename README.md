@@ -37,6 +37,7 @@ Peanuts
 <param ve-image
        label="Fresh Roasted (Peanuts), 1887"
        description="John Haberle (1856-1933)"
+       attribution="Yale University Art Gallery"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/50/John_Haberle_-_Fresh_Roasted_%28Peanuts%29_-_1979.8_-_Yale_University_Art_Gallery.jpg">
 
