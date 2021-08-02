@@ -35,8 +35,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
       
 Peanuts
 <param ve-image
-       label="Fresh Roasted (Peanuts), 1887"
-       description="John Haberle (1856-1933)"
+       label="John Haberle (1856-1933), Fresh Roasted (Peanuts), 1887"
        attribution="Yale University Art Gallery"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/50/John_Haberle_-_Fresh_Roasted_%28Peanuts%29_-_1979.8_-_Yale_University_Art_Gallery.jpg">
