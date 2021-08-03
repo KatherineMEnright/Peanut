@@ -39,6 +39,14 @@ Peanuts
        attribution="Yale University Art Gallery"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/50/John_Haberle_-_Fresh_Roasted_%28Peanuts%29_-_1979.8_-_Yale_University_Art_Gallery.jpg">
+       
+Inca book
+<param ve-image
+       label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
+       attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
+       license="public domain"
+       url="http://bdh-rd.bne.es/viewer.vm?id=bdh0000042078">
+
 
 ## Map
 
