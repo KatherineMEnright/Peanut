@@ -54,7 +54,7 @@ book
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
-       url="https://commons.wikimedia.org/wiki/File:Florentine_Codex_f.140v_medicinal_plants.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Florentine_Codex_f.140v_medicinal_plants.jpg">
 
 ## Map
 
