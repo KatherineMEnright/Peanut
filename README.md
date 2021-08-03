@@ -47,7 +47,9 @@ Inca book
        license="public domain"
        url="">
 
-General history
+## General history
+
+book
 <param ve-image
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
