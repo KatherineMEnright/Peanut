@@ -45,8 +45,14 @@ Inca book
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
-       url="http://bdh-rd.bne.es/viewer.vm?id=bdh0000042078">
+       url="">
 
+General history
+<param ve-image
+       label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
+       attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
+       license="public domain"
+       url="https://www.wdl.org/en/item/10622/view/1/282/">
 
 ## Map
 
