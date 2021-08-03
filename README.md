@@ -55,6 +55,8 @@ book
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Florentine_Codex_f.140v_medicinal_plants.jpg">
+       
+        <span data-click-image-zoomto="193,435,401,348">
 
 ## Map
 
