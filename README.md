@@ -72,6 +72,21 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
+## Multispecies Engagements: Insects, Fungi, Bacteria
+
+Humans are not the only consumers of the peanut plant. Scientific documentation in ‘The Peanut, the unpredictable legume; a symposium’ on non-human consumption of the peanut plant reveals insect, fungi, bacterial, and animal ‘consumers’[15]. This consumption is often represented as ‘infestation’ by ‘pests’ and crop damage due to ‘disease’. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Within the discourse centered on peanut cultivation for human consumption, we find the assertive presence of insects that feed on the peanut foliage and its subterranean parts. The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Some insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are stored and transported to markets.
+
+<param ve-image 
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-map center="Q36600" zoom="11">
+
+## Multiple viewers
+
+Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
+Others are selectable using icons displayed in the top right margin of the paragraph.
+<param ve-image 
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-map center="Q36600" zoom="11">
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
