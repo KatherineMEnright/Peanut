@@ -1,0 +1,39 @@
+source	source.label	target	target.label	edge
+Q4774594	Velvetbean Caterpillar (Anticarsia gemmatalis)	Q37383	Arachis hypogaea	Insect feeds on Foliage
+	Velvetbean Caterpillar (Anticarsia gemmatalis)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Fall armyworm (Laphygma frugiperda)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Fall armyworm (Laphygma frugiperda)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Corn Earworm (Heliothis armigera (Hbn.)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Corn Earworm (Heliothis armigera (Hbn.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Potato Leafhopper (Empoasca fabae (Harr.)	Q37383	Arachis hypogaea	Insect feeds on juices from the leaf
+	Potato Leafhopper (Empoasca fabae (Harr.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Empoasca facialis Jac.	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca facialis Jac.	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Empoasca solana DeLong	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca solana DeLong	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Empoasca flavescens (F.)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca flavescens (F.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Tobacco Thrips (Frankliniella fusca (Hinds)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Tobacco Thrips (Frankliniella fusca (Hinds)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	F. tritici (Fitch)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	F. tritici (Fitch)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Heliothrips indicus	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Heliothrips indicus	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Taeniothrips distalis Ky. 	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Taeniothrips distalis Ky. 	Q2095	FOOD	Interacts with Arachis hypogaea for
+	T. longistylus Ky.	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	T. longistylus Ky.	Q2095	FOOD	Interacts with Arachis hypogaea for
+	white fringed beetle (Pantomorus leucoloma (Boh.)	Q37383	Arachis hypogaea	Insect larvae feed on the underground parts/adults feed on the foliage
+	white fringed beetle (Pantomorus leucoloma (Boh.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	southern corn rootworm (Diabrotica duodecimpimctata (F)	Q37383	Arachis hypogaea	feeds on young peanut pods
+	southern corn rootworm (Diabrotica duodecimpimctata (F)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	banded cucumber beetle (D. balteata Lec)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	banded cucumber beetle (D. balteata Lec)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	wireworms (Heteroderes sp.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	wireworms (Heteroderes sp.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	white grubs (Strigoderma arboricola (F.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	white grubs (Strigoderma arboricola (F.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	 lesser cornstalk borer (Elasmopalpus lignosellus (Zell.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	 lesser cornstalk borer (Elasmopalpus lignosellus (Zell.)	Q2095	FOOD	Interacts with Arachis hypogaea for
+	Soil Fungi (Rhizoctonia)	Q37383	Arachis hypogaea	Fungi grows on peanut pods under the soil
+	Soil Fungi (Rhizoctonia)	Q2095	FOOD	Interacts with Arachis hypogaea for
