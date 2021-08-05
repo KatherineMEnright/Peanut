@@ -23,22 +23,23 @@ In spite of its English name and nutlike taste, the peanut is, in fact, not a nu
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
-  
-<param ve-map-layer geojson title=The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
+
 
 While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilisations before spreading further north. [^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most ‘successful’ New World plants, along with the potato.
 
-<param ve-image 
-       label="Fresh Roasted (Peanuts), 1887" 
-       description="Painting by John Haberle (1856-1933)" 
-       attribution="Yale University Art Gallery"
-       license="public domain" 
-       url="https://images.collections.yale.edu/iiif/2/yuag:f8480014-9101-414c-a8d3-0ca94aaed1fa/full/!1920,1920/0/default.jpg">
-
+<param ve-map basemap="OpenTopoMap">  
+<param ve-map-layer geojson title=The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
 
 ## The Origins of Peanut Cultivation and Consumption
 
-The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or ynchic, being eaten toasted and used to make a kind of nougat (‘almond cake’) in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be used to cure many illnesses. 
+The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6>east </span>
+<param ve-map=marker
+url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
+	Coords=-19.922,-64.061
+	Size=129, 170"
+Circle="true">
+
+of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or ynchic, being eaten toasted and used to make a kind of nougat (‘almond cake’) in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be used to cure many illnesses. 
 
 As ‘El Inca’ suggests, peanuts were more than just an important food source for Pre-Columbian populations. The Moche civilisation in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and are believed to have associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] A gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. In fact, scholars have suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering.
 <param ve-image
