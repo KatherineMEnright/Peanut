@@ -32,12 +32,11 @@ While the largest peanut producing nations nowadays include India, China, and th
 
 ## The Origins of Peanut Cultivation and Consumption
 
-The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6>east </span>
-<param ve-map=marker
-url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
-	Coords=-19.922,-64.061
-	Size=129, 170"
-Circle="true">
+The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6> east </span>
+<param ve-map=marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
+	coords=-19.922,-64.061
+	size=129, 170"
+	circle="true">
 
 of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or ynchic, being eaten toasted and used to make a kind of nougat (‘almond cake’) in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be used to cure many illnesses. 
 
