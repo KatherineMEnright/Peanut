@@ -24,7 +24,9 @@ In spite of its English name and nutlike taste, the peanut is, in fact, not a nu
 ##
 
 While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilisations before spreading further north. [^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most ‘successful’ New World plants, along with the potato.
-       <param ve-image 
+
+
+<param ve-image 
        label="Fresh Roasted (Peanuts), 1887" 
        description="Painting by John Haberle (1856-1933)" 
        attribution="Yale University Art Gallery"
@@ -37,6 +39,7 @@ While the largest peanut producing nations nowadays include India, China, and th
 The cultivated peanut is one of many species of the Arachis genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or ynchic, being eaten toasted and used to make a kind of nougat (‘almond cake’) in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be used to cure many illnesses. 
 
 ##
+
 As ‘El Inca’ suggests, peanuts were more than just an important food source for Pre-Columbian populations. The Moche civilisation in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and are believed to have associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] A gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. In fact, scholars have suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering.
        <param ve-image
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
@@ -44,9 +47,11 @@ As ‘El Inca’ suggests, peanuts were more than just an important food source 
        license="public domain"
        url="">
        
- ##     
-Peanuts were also held in high regard in Mesoamerica, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the peanut was known as tlalcacahuatl from the words tlalli (earth) and cacahuatl (cocoa), giving rise to one of the Spanish words for peanut, cacahuate/cacahuete, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavours. [^5] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. In the General History of the Things of New Spain, a comprehensive account of Aztec culture, society and natural history, tlalacacáhuatl is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^6]
-       <param ve-image
+##    
+
+Peanuts were also held in high regard in Mesoamerica, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavours. [^5] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. In the General History of the Things of New Spain, a comprehensive account of Aztec culture, society and natural history, tlalacacáhuatl is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^6]
+
+<param ve-image
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
@@ -62,14 +67,23 @@ Peanuts were encountered by Europeans on the Caribbean island of Hispaniola in t
 ## Mass Consumption: Peanuts as American Staple
        
 
- Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from mpinda in the Kongo language. [^9] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^10] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a ubiquitous American staple—peanut butter.
-
+ Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from mpinda in the Kongo language. [^9] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^10] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a 
+ubiquitous American staple—peanut butter.
        
- Instrumental to the rise of the peanut was George Washington Carver, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A 1916 Tuskegee Institute report illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^11] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^12] 
+       
+<param ve-image 
+       label="Lyrics of the folk song 'Goober Peas'" 
+       description="Painting by John Haberle (1856-1933)" 
+       attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
+      
+
+Instrumental to the rise of the peanut was George Washington Carver, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A [1916 Tuskegee Institute report] (https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up) illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^11] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^12] 
        
  <param ve-image
        label="George Washington Carver - One of America's Greatest Scientists(1943)"
-       description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977) "
+       description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977)"
        attribution="National Archives and Records Administration"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg/2139px-GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg">
