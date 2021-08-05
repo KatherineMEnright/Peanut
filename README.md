@@ -9,18 +9,21 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q3621199"> <!-- Peanut -->
 
-# Sample visual essay
+# A Global History of Peanut Consumption
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+## Introduction
 
-# Basic usage
+In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, Arachis hypogaea, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+
+While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilisations before spreading further north [^1]. The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most ‘successful’ New World plants, along with the potato.
+       <param ve-image 
+       label="Fresh Roasted (Peanuts)" 
+       description="painting by John Haberle " 
+       license="public domain" 
+       url="https://images.collections.yale.edu/iiif/2/yuag:f8480014-9101-414c-a8d3-0ca94aaed1fa/full/!1920,1920/0/default.jpg">
+
 
 ## Image
 
