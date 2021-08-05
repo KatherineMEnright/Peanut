@@ -60,16 +60,19 @@ Peanuts were encountered by Europeans on the Caribbean island of Hispaniola in t
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Mass Consumption: Peanuts as American Staple
+       
 
  Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from mpinda in the Kongo language. [^9] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^10] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a ubiquitous American staple—peanut butter.
 
+       
  Instrumental to the rise of the peanut was George Washington Carver, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A 1916 Tuskegee Institute report illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^11] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^12] 
-        <param ve-image
-       label="'George Washington Carver - One of America's Greatest Scientists'(1943)"
-       description = "Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977) "
+       
+ <param ve-image
+       label="George Washington Carver - One of America's Greatest Scientists(1943)"
+       description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977) "
        attribution="National Archives and Records Administration"
        license="public domain"
-       url=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg/2139px-GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg/2139px-GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg">
       
        
 Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
@@ -83,22 +86,33 @@ Humans are not the only consumers of the peanut plant. Scientific documentation 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/Network%20Trial%20Ten%20-%20Sheet1.tsv"
        center="Arachis hypogaea">
 
-## Multiple viewers
+## Conclusion
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-# References
+       The ubiquitous peanut we know today has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. The peanut has been perceived as both a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
+
+## References
 
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42, https://doi.org/10.1007/978-94-011-0733-4_2.
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," Science 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
+[^3]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985). 
+[^4]: Lindi Jaclyn Masur, "Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67)," Master’s Thesis, The University of British Columbia, 2012.
+[^5]: Andrew F. Smith, *Peanuts: The Illustrious History of the Goober Pea* (Urbana and Chicago: University of Illinois Press, 2002).
+[^6]: Fray Bernardino de Sahagún, *Historia General de las Cosas de Nueva España*, Vol. XI: de las cosas naturales, 1577. 
+[^7]:  Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
+[^8]: Smith, *Peanuts: The Illustrious History of the Goober Pea*.
+[^9]: Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York ; Chichester: Columbia University Press, 2013), 7.
+[^10]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/
+[^11]: George Washington Carver, “How to grow the peanut, and 105 ways of preparing it for human consumption,” Tuskegee Institute, 1916. https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up
+[^12]:  Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
+[^13]: Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+
+       
 
 
 
