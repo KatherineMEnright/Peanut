@@ -15,16 +15,17 @@
 
 ## Introduction
 
+
+In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+
 <param ve-image 
        label="Arachis hypogaea illustration" 
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
-
-In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
   
- <param ve-map basemap="OpenTopoMap">
-<param ve-map-layer geojson url="geojson/peanutdistributionmap.geojson" title=The distribution of *Arachis hypogaea* arond the world" active>![image](https://user-images.githubusercontent.com/87992291/128400299-0ca92f8f-e400-4874-ae20-cf12a417acb7.png)
+<param ve-map basemap="OpenTopoMap">
+<param ve-map-layer geojson title=The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
 
 While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilisations before spreading further north. [^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most ‘successful’ New World plants, along with the potato.
 
