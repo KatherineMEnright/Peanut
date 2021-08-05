@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Peanut Team Essay"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       author="Maria Job, Elizabeth Chant, and Katherine Enright"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
