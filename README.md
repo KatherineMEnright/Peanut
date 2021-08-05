@@ -32,6 +32,9 @@ While the largest peanut producing nations nowadays include India, China, and th
 
 ## The Origins of Peanut Cultivation and Consumption
 
+<param ve-map basemap="OpenTopoMap">  
+<param ve-map-layer geojson title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
+
 The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6">east</span>
 <param ve-map-marker 
 url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
