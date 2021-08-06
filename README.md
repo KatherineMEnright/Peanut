@@ -109,7 +109,16 @@ The other life forms that have become a part of the peanut protection discourse,
 
 ## Peanuts and Fauna in Cultural History
 
-A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18]. Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
+A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18].
+
+<param ve-image
+       label="Puck's presidential impossibility. The political peanut vender / J.S. Pughe, 1894"
+       description="Political Satire shows U.S politician as peanut vendor selling roasted peanuts"
+       attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+       license="No known restrictions on publication."
+       url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
+
+Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
 
 <param ve-image
        label="The "peanut" Hagenbeck and his "senatorial courtesy" animal show, 1984." 
