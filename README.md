@@ -28,13 +28,13 @@ In spite of its English name and nutlike taste, the peanut is, in fact, not a nu
 While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilizations before spreading further north. [^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
 
 <param ve-map basemap="Esri_WorldPhysical">  
-<param ve-map-layer geojson title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
+<param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson">
 
 ## The Origins of Peanut Cultivation and Consumption
 
 <param ve-map basemap="Esri_WorldPhysical">  
-<param ve-map-layer geojson title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson" active>
-
+<param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.geojson">
+ 
 The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6">east</span>
 <param ve-map-marker 
 url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
