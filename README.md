@@ -97,7 +97,7 @@ Instrumental to the rise of the peanut was George Washington Carver, the pioneer
 Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
        
 
-## Multispecies Engagements: Insects, Fungi, Bacteria
+## Multispecies Consumption: Insects, Fungi, Bacteria
 
 Humans are not the only consumers of the peanut plant. Documentation in ‘The Peanut, the unpredictable legume; a symposium’ highlights consumption by insects, fungi, bacteria, and animal consumers. [^15] The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are in storage. The ‘consumption’ of the peanut plant by the insect is often represented in language as ‘infestation’ by ‘pests’ which cause crop damage. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Despite the language, it is within the discourse centered on peanut cultivation for human consumption that we find the assertive presence of insects that feed on the peanut foliage, subterranean parts, and delicious pods. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
 
@@ -111,24 +111,24 @@ The other life forms that have become a part of the peanut protection discourse,
 
 A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18]. Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
 
-<param ve-compare 
-       curtain url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg" 
+<param ve-image
        label="The "peanut" Hagenbeck and his "senatorial courtesy" animal show, 1984." 
        description="Political Satire in 1984 N.Y Magazine Publication" 
        attribution="Taylor, Charles Jay, 1855-1929, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print" 
-       license="No known restrictions on publication.">
-<param ve-compare 
-       url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg" 
+       license="No known restrictions on publication."
+       url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg">
+<param ve-image 
        label="Wait, don't buy an elephant. Bill Taft is coming with a real live peanut eating elephant, 1908." 
        description="U.S Political Cartoon published in 1908."
        attribution="Mahony, Felix, 1867-1939, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication.">
-<param ve-compare 
-       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg" 
+       license="No known restrictions on publication."
+       url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg">
+<param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
        description="Theatrical poster showing person feeding elephants peanuts at the circus."
        attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication.">
+       license="No known restrictions on publication."
+       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
        
 A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). [^16] Peanut ‘waste’ which includes the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed called peanut cakes especially during years of low quality crop or poor prices. [^17]
 
