@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Peanut Team Essay"
+       title="A Global History of Peanut Consumption"
        author="Maria Job, Elizabeth Chant, and Katherine Enright"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg" 
        layout="vertical">
@@ -11,9 +11,8 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q3621199"> <!-- Peanut -->
 
-# A Global History of Peanut Consumption
 
-## Introduction
+### Introduction
 
 
 In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
@@ -30,7 +29,7 @@ While the largest peanut producing nations nowadays include India, China, and th
 <param ve-map basemap="Esri_WorldPhysical">  
 <param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.json">
 
-## The Origins of Peanut Cultivation and Consumption
+### The Origins of Peanut Cultivation and Consumption
 
 <param ve-map basemap="Esri_WorldPhysical">  
 <param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.json">
@@ -65,13 +64,13 @@ Peanuts were also held in high regard in Mesoamerica, having gradually spread fu
        url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Florentine_Codex_f.140v_medicinal_plants.jpg"
        span data-click-image-zoomto="193,435,401,348">
                      
-## Out of the Americas
+### Out of the Americas
        
 Peanuts were encountered by Europeans on the Caribbean island of Hispaniola in the early sixteenth century, where they were known by the name *maní* in the indigeous Taíno language. Today *Maní* is still the predominant name for peanuts in Latin America, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler Gonzalo Fernández de Oviedo linked their consumption on the island to people of low social standing who were not true Christians. [^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century. [^8] While the arrival of the peanut in Europe was relatively slow, Spanish Galleons transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands in the late sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. From here, it was transported to Portuguese India, where it was termed the ‘Mozambique bean’.
 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Mass Consumption: Peanuts as American Staple
+### Mass Consumption: Peanuts as American Staple
        
  Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from mpinda in the Kongo language. [^9] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^10] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a 
 ubiquitous American staple—peanut butter.
@@ -97,7 +96,7 @@ Instrumental to the rise of the peanut was George Washington Carver, the pioneer
 Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
        
 
-## Multispecies Consumption: Insects, Fungi, Bacteria
+### Multispecies Consumption: Insects, Fungi, Bacteria
 
 Humans are not the only consumers of the peanut plant. Documentation in ‘The Peanut, the unpredictable legume; a symposium’ highlights consumption by insects, fungi, bacteria, and animal consumers. [^15] The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are in storage. The ‘consumption’ of the peanut plant by the insect is often represented in language as ‘infestation’ by ‘pests’ which cause crop damage. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Despite the language, it is within the discourse centered on peanut cultivation for human consumption that we find the assertive presence of insects that feed on the peanut foliage, subterranean parts, and delicious pods. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
 
@@ -107,7 +106,7 @@ Humans are not the only consumers of the peanut plant. Documentation in ‘The P
        
 The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). [^15] Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). [^16] The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
 
-## Peanuts and Fauna in Cultural History
+### Peanuts and Fauna in Cultural History
 
 A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18].
 
@@ -148,11 +147,11 @@ A notable farming practice is the gleaning of the fields by hogs after the peanu
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
 
-## Conclusion
+### Conclusion
 
 The ubiquitous peanut we know today has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. The peanut has been perceived as both a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 
-## References
+### References
 
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42, https://doi.org/10.1007/978-94-011-0733-4_2.
 [^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," Science 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
