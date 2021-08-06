@@ -13,35 +13,25 @@
 
 
 ### Introduction
-
-
 In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
-
 <param ve-image 
        label="Arachis hypogaea illustration" 
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
 
-
-While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilizations before spreading further north. [^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
-
-<param ve-map basemap="Esri_WorldPhysical">  
-<param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.json">
-
-### The Origins of Peanut Cultivation and Consumption
-
-<param ve-map basemap="Esri_WorldPhysical">  
-<param ve-map-layer geojson active title="The distribution of *Arachis hypogaea* arond the world" url="peanutdistributionmap.json">
- 
-The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated <span data-mouseover-map-flyto="-19.922,-64.061,6">east</span>
+While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its origins in South America, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the <span data-mouseover-map-flyto="-19.922,-64.061,6">potato</span>.
+<param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world">  
+<param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker 
 url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg
 	coords=-19.922,-64.061
 	size=129, 170"
 	circle="true">
 
-of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or *ynchic*, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
+### The Origins of Peanut Cultivation and Consumption
+ 
+The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or *ynchic*, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
 <param ve-image
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
