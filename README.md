@@ -100,11 +100,11 @@ Humans are not the only consumers of the peanut plant. Documentation in ‘The P
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/Network%20Trial%20Ten%20-%20Sheet1.tsv"
        center="Arachis hypogaea">
        
-The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
+The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). [^15] Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). [^16] The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
 
 ## Peanuts and Fauna in Cultural History
 
-A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18]. Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by these images: drawing, 1908 and lithograph,1897.
+A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18]. Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
 
 <param ve-compare 
        curtain url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg" 
@@ -125,7 +125,14 @@ A characteristic feature of peanuts is their historical presence in public space
        attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication.">
        
-A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). Peanut ‘waste’ which includes the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed called peanut cakes especially during years of low quality crop or poor prices.
+A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). [^16] Peanut ‘waste’ which includes the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed called peanut cakes especially during years of low quality crop or poor prices. [^17]
+
+<param ve-image
+       label="Marketing peanuts, 1926"
+       description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977)"
+       attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
+       license="public domain"
+       url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
 
 ## Conclusion
 
@@ -152,7 +159,8 @@ The ubiquitous peanut we know today has a rich global history. Having been trans
 [^17]: Harold J. Clay, and Paul M. Williams, *Marketing peanuts*, Washington, D.C: U.S. Dept. of Agriculture, 1926. https://doi.org/10.5962/bhl.title.108735.
 [^18]: John S. Pughe (1870-1909) artist, "Puck's presidential impossibility. The political peanut vender," N.Y. : Published by Keppler & Schwarzmann, 1894.
 [^19]: Charles Jay Taylor (1855-1929), *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*, 1894.
-
+[^20]: Frohman, Charles. “Charles Frohman's Production, the Circus Girl.” The Library of Congress. Accessed August 6, 2021. https://www.loc.gov/resource/var.0837/.
+[^21]: Mahony, Felix. “Wait, Don't Buy an Elephant. Bill Taft Is Coming with a Real Live Peanut EATING ELEPHANT.” The Library of Congress. Accessed August 6, 2021. https://www.loc.gov/resource/acd.2a10174/.
        
 
 
