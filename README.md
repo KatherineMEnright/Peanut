@@ -109,8 +109,8 @@ Peanuts have also been ubiquitous as entertainment food in circuses and fairs, b
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
 <param ve-image
-       label="The peanut Hagenbeck and his senatorial courtesy animal show, 1984." 
-       description="Political Satire in 1984 N.Y Magazine Publication" 
+       label="The peanut Hagenbeck and his senatorial courtesy animal show, 1894." 
+       description="Political Satire in 1894 N.Y Magazine Publication" 
        attribution="Taylor, Charles Jay, 1855-1929, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print" 
        license="No known restrictions on publication."
        url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg">
