@@ -121,7 +121,7 @@ Peanuts have also been ubiquitous as entertainment food in circuses and fairs, b
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg">       
 
-A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). The book Marketing Peanuts (date) interestingly notes the prohibition of the sale of shelled peanuts in some cities in the U.S to avoid the littering of peanut shells by the customers. While peanut shells are perceived as ‘waste’ or litter in one context, the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed and fertilizer called peanut cakes especially during years of low quality crop or poor prices. [^17]
+The book Marketing Peanuts (date) interestingly notes the prohibition of the sale of shelled peanuts in some cities in the U.S to avoid the littering of peanut shells by the customers. While peanut shells are perceived as ‘waste’ or litter in one context, the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed and fertilizer called peanut cakes especially during years of low quality crop or poor prices. [^17] A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334).
 <param ve-image
        label="Marketing peanuts, 1926. (p.74)"
        description=" Image and text describing peanut cakes"
