@@ -93,13 +93,7 @@ A characteristic feature in the history of peanuts is their presence in public s
        attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
-       <param ve-image
-       label="Marketing peanuts, 1926. (p.47)"
-       description="Image and text describing peanut vendors"
-       attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
-       license="Public Domain."
-       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
-
+       
 Peanuts have also been ubiquitous as entertainment food in circuses and fairs, becoming the subject material for another 1894 Puck magazine political chromolithograph: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The image shows the coming together of the peanut and the intercontinentally transported animals. The visual representation of the imagined peanut-loving elephant is exemplified by the 1897 theatrical poster featuring a person offering the elephant a peanut and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts. [^20][^21] 
 <param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
@@ -121,6 +115,12 @@ Peanuts have also been ubiquitous as entertainment food in circuses and fairs, b
        url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg">       
 
 The book Marketing Peanuts (date) interestingly notes the prohibition of the sale of shelled peanuts in some cities in the U.S to avoid the littering of peanut shells by the customers. While peanut shells are perceived as ‘waste’ or litter in one context, the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed and fertilizer called peanut cakes especially during years of low quality crop or poor prices. [^17] A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334).
+<param ve-image
+       label="Marketing peanuts, 1926. (p.47)"
+       description="Image and text describing peanut vendors"
+       attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
+       license="Public Domain."
+       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
 <param ve-image
        label="Marketing peanuts, 1926. (p.74)"
        description=" Image and text describing peanut cakes"
