@@ -55,8 +55,12 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 ### Out of the Americas
        
 Peanuts were encountered by Europeans on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. Today *Maní* is still the predominant name for peanuts in Latin America, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler Gonzalo Fernández de Oviedo linked their consumption on the island to people of low social standing who were not true Christians. [^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century. [^8] While the arrival of the peanut in Europe was relatively slow, Spanish Galleons transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands in the late sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. From here, it was transported to Portuguese India, where it was termed the ‘Mozambique bean’.
-
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map basemap="Esri_WorldPhysical" title="Locations where peanuts have been recorded before 1600">  
+<param ve-map-layer geojson active url="traderoutesmap.json">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-22.11,-102.92"
+	size="90,90"
+	circle="true">
 
 ### Mass Consumption: Peanuts as American Staple
        
