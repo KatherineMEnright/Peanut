@@ -84,17 +84,6 @@ Instrumental to the rise of the peanut was George Washington Carver, the pioneer
       
 Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
        
-
-### Multispecies Consumption: Insects, Fungi, Bacteria
-
-Humans are not the only consumers of the peanut plant. Documentation in ‘The Peanut, the unpredictable legume; a symposium’ highlights consumption by insects, fungi, bacteria, and animal consumers. [^15] The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are in storage. The ‘consumption’ of the peanut plant by the insect is often represented in language as ‘infestation’ by ‘pests’ which cause crop damage. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Despite the language, it is within the discourse centered on peanut cultivation for human consumption that we find the assertive presence of insects that feed on the peanut foliage, subterranean parts, and delicious pods. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
-
-<param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/Network%20Trial%20Ten%20-%20Sheet1.tsv"
-       center="Arachis hypogaea">
-       
-The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). [^15] Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). [^16] The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
-
 ### Peanuts and Fauna in Cultural History
 
 A characteristic feature of peanuts is their historical presence in public spaces (Clay, 47). [^17] The vendor selling peanuts, roasted or boiled, in street-carts, is a practice that continues in several locations around the world. *Puck's presidential impossibility. The political peanut vender* is a political chromolithograph published in 1894 by Puck magazine which uses the image of the peanut vendor in its satirical representation of U.S politicians [^18].
@@ -135,6 +124,16 @@ A notable farming practice is the gleaning of the fields by hogs after the peanu
        attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
+
+### Multispecies Consumption: Insects, Fungi, Bacteria
+
+Humans are not the only consumers of the peanut plant. Documentation in ‘The Peanut, the unpredictable legume; a symposium’ highlights consumption by insects, fungi, bacteria, and animal consumers. [^15] The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are in storage. The ‘consumption’ of the peanut plant by the insect is often represented in language as ‘infestation’ by ‘pests’ which cause crop damage. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Despite the language, it is within the discourse centered on peanut cultivation for human consumption that we find the assertive presence of insects that feed on the peanut foliage, subterranean parts, and delicious pods. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
+
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/Network%20Trial%20Ten%20-%20Sheet1.tsv"
+       center="Arachis hypogaea">
+       
+The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). [^15] Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). [^16] The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
 
 ### Conclusion
 
