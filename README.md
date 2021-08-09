@@ -91,6 +91,7 @@ A characteristic feature of peanuts is their historical presence in public space
        attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
+
 Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
 <param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
@@ -110,6 +111,7 @@ Peanuts have also been ubiquitous as cheap entertainment food in circuses and fa
        attribution="Mahony, Felix, 1867-1939, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg">       
+
 A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). [^16] Peanut ‘waste’ which includes the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed called peanut cakes especially during years of low quality crop or poor prices. [^17]
 <param ve-image
        label="Marketing peanuts, 1926"
