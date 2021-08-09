@@ -94,7 +94,7 @@ A characteristic feature in the history of peanuts is their presence in public s
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
        
-Peanuts have also been ubiquitous as entertainment food in circuses and fairs, becoming the subject material for another 1894 Puck magazine political chromolithograph: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The image shows the coming together of the peanut and the intercontinentally transported animals. The visual representation of the imagined peanut-loving elephant is exemplified by the 1897 theatrical poster featuring a person offering the elephant a peanut and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts. [^20][^21] 
+Peanuts have also been ubiquitous as entertainment food in circuses and fairs, becoming the subject material for another 1894 Puck magazine political chromolithograph: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The image shows the coming together of the peanut and the intercontinentally transported animals. The visual representation of the imagined peanut-loving elephant is exemplified by the 1897 theatrical poster featuring a person offering the elephant a <span data-click-image-zoomto="119,385,382,353">peanut</span> and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts. [^20][^21]
 <param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
        description="Theatrical poster showing person feeding elephants peanuts at the circus."
