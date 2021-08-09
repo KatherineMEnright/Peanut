@@ -20,11 +20,11 @@ In spite of its English name and nutlike taste, the peanut is, in fact, not a nu
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
 
-While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its <span data-mouseover-map-flyto="-10.021,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
+While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world">  
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-19.922,-64.061"
+	coords="-15.922,-64.061"
 	size="129, 170"
 	circle="true">
 
