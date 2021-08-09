@@ -29,22 +29,32 @@ While the largest peanut producing nations nowadays include India, China, and th
 	circle="true">
 
 ### The Origins of Peanut Cultivation and Consumption
- 
-The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by humans is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or *ynchic*, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
+
+<param ve-entity eid="Q3122657"> <!-- Andean civilizations -->
+<param ve-entity eid="Q3404008"> <!-- Inca civilization -->
+<param ve-entity eid="Q208188"> <!-- Moche culture -->
+<param ve-entity eid="Q12542"> <!-- Aztec -->
+<param ve-entity eid="Q13703"> <!-- Mesoamerica -->
+<param ve-entity eid="Q13695"> <!-- Tenochtitlan -->
+<param ve-entity eid="Q1106019"> <!-- Florentine Codex -->
+<param ve-entity eid="Q25277"> <!-- Hispaniola -->
+<param ve-entity eid="Q5232952"> <!-- Taíno -->
+
+The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil. The exact period of peanut cultivation by Andean civilisations is unclear but domesticated peanut remains have been dated back more than 7000 years. [^2] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the Inca civilisation, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or *ynchic*, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw. [^3] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
 <param ve-image
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
        url="https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png">
 
-As "El Inca" suggests, peanuts were more than just an important food source for Pre-Columbian populations. The Moche civilisation in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] A gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. In fact, scholars have suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering.
+As "El Inca" suggests, peanuts were more than just an important food source. The Moche culture in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] A gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. In fact, scholars have suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering.
 <param ve-image
        label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.250C.E."
        attribution="Harvard Fine Arts Library, Digital Images and Slides Collection, 2004.H08.01355"
        license=""
        url="https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png">
        
-Peanuts were also held in high regard in Mesoamerica, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavours. [^5] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. In the General History of the Things of New Spain, a comprehensive account of Aztec culture, society and natural history, tlalacacahuatl is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^6]
+Peanuts were also held in high regard in Mesoamerica, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavours. [^5] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. In the General History of the Things of New Spain, a comprehensive account of Aztec culture, society and natural history, *tlalacacahuatl* is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^6]
 
 <param ve-image
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
