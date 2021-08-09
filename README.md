@@ -92,7 +92,8 @@ A characteristic feature of peanuts is their historical presence in public space
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
 
-Peanuts have also been ubiquitous as cheap entertainment food in circuses and fairs, becoming the subject material for political chromolithographs which also represent circus animals: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*. [^19] The outcome of having peanuts in circus spaces in particular, was feeding them to the circus animals like elephants. The visual representations of the imagined peanut-loving elephant are exemplified by the 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where we see the representation of an elephant rushing toward a bag of peanuts. [^20][^21]
+The ubiquity of peanuts as cheap entertainment food in circuses and fairs, spaces where animals were used in performances, may be the source for the cultural imagination of the peanut-loving elephant. The visual representations of the imagined peanut-loving elephant are exemplified by this 1897 theatrical poster featuring a person feeding the circus elephant peanuts and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts. [^20][^21] 
+*The "peanut" Hagenbeck and his "senatorial courtesy" animal show* is a 1984 satirical political chromolithograph that draws from the associations between peanuts, circuses, and circus animals. [^19]
 <param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
        description="Theatrical poster showing person feeding elephants peanuts at the circus."
