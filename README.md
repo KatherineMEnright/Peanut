@@ -114,16 +114,14 @@ Peanuts have also been ubiquitous as cheap entertainment food in circuses and fa
 
 A notable farming practice is the gleaning of the fields by hogs after the peanut crop has been harvested (Waldron, 334). [^16] Peanut ‘waste’ which includes the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed called peanut cakes especially during years of low quality crop or poor prices. [^17]
 <param ve-image
-       label="Marketing peanuts, 1926"
+       label="Marketing peanuts, 1926. (p.74)"
        description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977)"
        attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
 
 ### Multispecies Consumption: Insects, Fungi, Bacteria
-
 Humans are not the only consumers of the peanut plant. Documentation in ‘The Peanut, the unpredictable legume; a symposium’ highlights consumption by insects, fungi, bacteria, and animal consumers. [^15] The insects represented in the following network analysis, for example, are some of the wondrous creatures that share humanity’s appetite for the peanut plant. Some non-human consumers prefer the foliage, or sometimes the juices within the leaves, while others enjoy feasting on the subterranean parts of the plant. Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after they are harvested and when they are in storage. The ‘consumption’ of the peanut plant by the insect is often represented in language as ‘infestation’ by ‘pests’ which cause crop damage. This language highlights associations of plant damage to economic ‘damage’ of crop yield. Despite the language, it is within the discourse centered on peanut cultivation for human consumption that we find the assertive presence of insects that feed on the peanut foliage, subterranean parts, and delicious pods. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
-
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/Network%20Trial%20Ten%20-%20Sheet1.tsv"
        center="Arachis hypogaea">
@@ -131,7 +129,6 @@ Humans are not the only consumers of the peanut plant. Documentation in ‘The P
 The other life forms that have become a part of the peanut protection discourse, include Bacterial and fungal entities causing “Bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States” (Arant, 262). [^15] Observations as noted in Waldron’s documentation, describe “harmless” insects such as the red ants observed in India, which work around the fruit. [^16] The author notes that the movements of the ants may be helpful in improving the aeration in the soil and the development of root hairs (Waldron, 331). [^16] The roots of the peanut plant  is a centre for multi-species reciprocity with the nitrogen-fixing bacteria present in the root nodules benefitting both the plant and the soil.
 
 ### Conclusion
-
 The ubiquitous peanut we know today has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. The peanut has been perceived as both a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 
 ### References
