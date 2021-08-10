@@ -57,7 +57,7 @@ Peanuts were encountered by Europeans on the Caribbean island of <span eid="Q252
 <param ve-map basemap="Esri_WorldPhysical" title="Locations where peanuts have been recorded before 1600">  
 <param ve-map-layer geojson active url="traderoutesmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="20.564, -102.502"
+	coords="16.564, -102.502"
 	size="20, 20"
 	circle="true">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
