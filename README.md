@@ -35,6 +35,7 @@ The cultivated peanut is one of many species of the *Arachis* genus which is tho
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
+       fit="contain"
        url="El inca.jpg">
  
 As "El Inca" suggests, peanuts were more than just an important food source, they were also a prestigious item with religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] Scholars have further suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering. In this vein, an elaborate gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. 
