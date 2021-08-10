@@ -24,7 +24,7 @@ While the largest peanut producing nations nowadays include India, China, and th
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world">  
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-19.922,-64.061"
+	coords="-18.5,-64.061"
 	size="129, 170"
 	circle="true">
 
