@@ -55,7 +55,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 Peanuts were encountered by Europeans for the first time on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. Today *Maní* is still the predominant name for peanuts in Latin America, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler Gonzalo Fernández de Oviedo linked their consumption on the island to people of low social standing who were not true Christians. [^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century. [^8] 
 
 While the arrival of the peanut in Europe was relatively slow, Spanish Galleons transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands in the late sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was also transported to Portuguese India, where it was initially termed the "Mozambique bean", and also to China.
-<param ve-map basemap="Esri_WorldPhysical" title="Locations of peanuts in the Spanish and Portuguese Empires around 1600 ">  
+<param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the Spanish (blue) and Portuguese (red) Empires around 1600 ">  
 <param ve-map-layer geojson active url="traderoutesmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="16.564, -102.502"
@@ -86,7 +86,7 @@ While the arrival of the peanut in Europe was relatively slow, Spanish Galleons 
 	size="20, 20"
 	circle="true">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-7.776,13.887"
+	coords="-13.776,13.887"
 	size="20, 20"
 	circle="true">
 
