@@ -9,11 +9,9 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q3621199"> <!-- Peanut -->
-
 
 ### Introduction
-In spite of its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
 <param ve-image 
        label="Arachis hypogaea illustration" 
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
