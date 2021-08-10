@@ -112,8 +112,6 @@ Instrumental to the rise of the peanut was George Washington Carver, the pioneer
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg/2139px-GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg">
            
-Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
-       
 ### Peanuts, Politics, and Public Space
 A characteristic feature in the history of peanuts is their presence in public spaces. The vendor selling peanuts, roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, is a practice that continues throughout the globe. The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 cuban song <span eid="Q3050049">*El Manisero* (*The Peanut Vendor*)</span> composed by <span eid="Q661928">Moisés Simons</span>. The composition celebrates the peanut and the vendor and has been added to the [2005 National Recording Registry](https://www.loc.gov/item/prn-06-083/) in recognition of its influence in the history of Latin American music.
 <param ve-video
@@ -169,7 +167,11 @@ Humans are not the only consumers of the peanut plant. In texts on peanut cultiv
        center="Arachis hypogaea">
 
 ### Conclusion
+Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter. [^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops. [^14]
+
 The ubiquitous peanut we know today has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. The peanut has been perceived as both a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
+
+
 
 ### References
 
