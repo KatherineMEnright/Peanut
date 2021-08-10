@@ -88,34 +88,20 @@ Today, the U. S. is the fourth-largest peanut producer, after China, India, and 
 ### Peanuts, Politics, and Public Space
 A characteristic feature in the history of peanuts is their presence in public spaces. The vendor selling peanuts, roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, is a practice that continues throughout the globe. The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 cuban song <span eid="Q3050049">*El Manisero* (*The Peanut Vendor*)</span> composed by <span eid="Q661928">Moisés Simons</span>. The composition celebrates the peanut and the vendor and has been added to the [2005 National Recording Registry](https://www.loc.gov/item/prn-06-083/) in recognition of its influence in the history of Latin American music. 
 
-Another artifact, the political chromolithograph published in 1894 by <span eid="Q1584058">Puck magazine</span> titled *Puck's presidential impossibility. The political peanut vender*, uses the image of the peanut vendor in its satirical representation of the U.S politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^15] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self interest.
+Another artifact, the political chromolithograph published in 1894 by <span eid="Q1584058">Puck magazine</span> titled *Puck's presidential impossibility. The political peanut vender*, uses the image of the peanut vendor in its satirical representation of the U.S politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^15] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self interest. Peanuts have also been ubiquitous as entertainment food in circuses, zoos and fairs. These spaces allowed for the coming together of the peanut and the intercontinentally transported animals. The 1894 Puck magazine political chromolithograph: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*, we are shown again a bag of "peanuts".[^16]
 <param ve-image
        label="Puck's presidential impossibility. The political peanut vender / J.S. Pughe, 1894"
        description="Political Satire shows U.S politician as peanut vendor selling roasted peanuts"
        attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
-       
-Peanuts have also been ubiquitous as entertainment food in circuses and fairs, becoming the subject material for another 1894 Puck magazine political chromolithograph: *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*.[^16] The image shows the coming together of the peanut and the intercontinentally transported animals. The visual representation of the imagined peanut-loving elephant is exemplified by the 1897 theatrical poster featuring a person offering the circus elephant a <span data-click-image-zoomto="119,385,382,353">peanut</span> and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts.[^17][^18]
-<param ve-image
-       label="Charles Frohman's production, The circus girl, 1897." 
-       description="Theatrical poster showing person feeding elephants peanuts at the circus."
-       attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication."
-       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
 <param ve-image
        label="The peanut Hagenbeck and his senatorial courtesy animal show, 1894." 
        description="Political Satire in 1894 N.Y Magazine Publication" 
        attribution="Taylor, Charles Jay, 1855-1929, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print" 
        license="No known restrictions on publication."
        url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg">
-<param ve-image 
-       label="Wait, don't buy an elephant. Bill Taft is coming with a real live peanut eating elephant, 1908." 
-       description="U.S Political Cartoon published in 1908."
-       attribution="Mahony, Felix, 1867-1939, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication."
-       url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg">       
-
+       
 The text *Marketing Peanuts* (1926) interestingly notes the prohibition of the sale of shelled peanuts in some cities in the U.S to avoid the littering of peanut shells by the customers.[^19] While peanut shells are perceived as ‘waste’ or litter in one context, the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed and fertilizer called peanut cakes especially during years of low quality crop or poor prices. A notable farming practice is the <span eid="Q254615">gleaning</span> of the fields by hogs after the peanut crop has been harvested.[^20]
 <param ve-image
        label="Marketing peanuts, 1926. (p.47)"
@@ -129,6 +115,20 @@ The text *Marketing Peanuts* (1926) interestingly notes the prohibition of the s
        attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
+       
+The visual representation of the imagined peanut-loving elephant is exemplified by the 1897 theatrical poster featuring a person offering the circus elephant a <span data-click-image-zoomto="119,385,382,353">peanut</span> and a 1908 political satire drawing where an elephant rushes toward a bag of peanuts.[^17][^18]
+<param ve-image
+       label="Charles Frohman's production, The circus girl, 1897." 
+       description="Theatrical poster showing person feeding elephants peanuts at the circus."
+       attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+       license="No known restrictions on publication."
+       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
+<param ve-image 
+       label="Wait, don't buy an elephant. Bill Taft is coming with a real live peanut eating elephant, 1908." 
+       description="U.S Political Cartoon published in 1908."
+       attribution="Mahony, Felix, 1867-1939, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+       license="No known restrictions on publication."
+       url="https://tile.loc.gov/storage-services/service/pnp/acd/2a10000/2a10100/2a10174r.jpg"> 
 
 ### Multispecies Consumption: Insects, Fungi, Bacteria
 Humans are not the only consumers of the peanut plant. In texts on peanut cultivation for human consumption like ‘The Peanut, the unpredictable legume; a symposium’, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^21] Insects like the Indian Meal Moth, Almond Moth, Saw-toothed Grain Beetle, and Flour Beetles are observed to consume peanuts after their harvest and when they are in storage. The consumption of the peanut plant by the insect is represented within the text as “infestation” by “pests” which cause crop damage directly translating to economic ‘damage’. The insects represented in the network analysis are but a few of the many wondrous creatures that share humanity’s appetite for the peanut plant. While the network analysis is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human. The other life forms that ‘consume’ the peanut include bacterial and fungal entities causing “bacterial wilt in the East Indies, rosette in Africa, and leaf spot in the southern United States”. Some observations include “harmless” insects such as the red ants, whose movements may be helpful in improving the aeration in the soil and the development of root hairs.[^22]
