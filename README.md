@@ -64,6 +64,13 @@ Peanuts were encountered by Europeans on the Caribbean island of <span eid="Q252
 	coords="-27.059, 34.409"
 	size="20, 20"
 	circle="true">
+	
+	
+	11.189/-15.304
+	12.619/74.718
+	2.070/102.338
+	14.743/120.278
+	23.282/114.060
 
 ### Mass Consumption: Peanuts as American Staple
        
