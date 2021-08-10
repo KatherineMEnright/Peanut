@@ -51,7 +51,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
        attribution="World Digital Library"
        license="public domain"
-       url="Peanut Florentine Codex.png"
+       url="Peanut Florentine Codex.png">
     
 ### Out of the Americas
 Peanuts were encountered by Europeans for the first time on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. Today *Maní* is still the predominant name for peanuts in Latin America, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler Gonzalo Fernández de Oviedo linked their consumption on the island to people of low social standing who were not true Christians. [^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century. [^8] 
