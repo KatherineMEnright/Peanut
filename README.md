@@ -24,7 +24,7 @@ While the largest peanut producing nations nowadays include India, China, and th
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world">  
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-17.922,-64.061"
+	coords="-19.922,-64.061"
 	size="129, 170"
 	circle="true">
 
@@ -34,7 +34,7 @@ The cultivated peanut is one of many species of the *Arachis* genus which is tho
        label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
-       url="https://github.com/KatherineMEnright/Peanut/blob/9459c7f70fbee2f60eda39feb7469a347b87c0ec/El%20inca.jpg">
+       url="El inca.jpg">
  
 As "El Inca" suggests, peanuts were more than just an important food source. The <span eid="Q208188">Moche culture</span> in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process. [^4] A gold and silver peanut necklace was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried, highlighting the peanut’s symbolic and religious importance and also linking their consumption to societal elites. In fact, scholars have suggested that peanuts were a high-status food and symbol on the northern coast of Pre-Columbian Peru, being used in competitive feasts and as a ceremonial offering.
 <param ve-image
