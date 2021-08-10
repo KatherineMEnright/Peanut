@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="A Global History of Peanut Consumption"
+       title="A Global History of Peanut Consumption: From Luxury Food to Livestock Feed"
        author="Maria Job, Elizabeth Chant, and Katherine Enright"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg" 
        layout="vertical">
