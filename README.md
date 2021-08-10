@@ -4,6 +4,7 @@
        title="A Global History of Peanut Consumption: From Luxury Food to Livestock Feed"
        author="Maria Job, Elizabeth Chant, and Katherine Enright"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg" 
+       fit="contain"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
