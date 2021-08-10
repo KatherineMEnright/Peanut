@@ -18,6 +18,7 @@ In spite of its English name and nutlike taste, the peanut is, in fact, not a nu
        label="Arachis hypogaea illustration" 
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
        license="public domain" 
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
 
 While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
