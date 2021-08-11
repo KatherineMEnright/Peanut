@@ -11,7 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
 ### A Nut in Name Alone
-In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures (hypo- [under], gaea [earth]).
 <param ve-image 
        label="Arachis hypogaea illustration" 
        description="Botanical illustration from *Medizinal-Pflanzen* by Franz Eugen Köhler"
@@ -59,7 +59,7 @@ While the arrival of the peanut in Europe was relatively slow, Spanish Galleons 
 <param ve-map-layer geojson active url="traderoutesmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="16.564, -102.502"
-	size="20, 20"
+	size="5, 5"
 	circle="true">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-27.059, 34.409"
@@ -181,8 +181,8 @@ The ubiquitous peanut we know has a rich global history. Having been transported
 ### References
 
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42, https://doi.org/10.1007/978-94-011-0733-4_2.
-[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al, 'The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut', Nature Genetics 48, no. 4 (2016):438–446, https://doi.org/10.1038/ng.3517.
-[^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," Science 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
+[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al, 'The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut', *Nature Genetics* 48, no. 4 (2016):438–446, https://doi.org/10.1038/ng.3517.
+[^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," *Science* 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
 [^3]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985). 
 [^4]: Lindi Jaclyn Masur, "Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67)," Master’s Thesis, The University of British Columbia, 2012.
 [^5]: Andrew F. Smith, *Peanuts: The Illustrious History of the Goober Pea* (Urbana and Chicago: University of Illinois Press, 2002).
