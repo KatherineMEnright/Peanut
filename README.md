@@ -111,6 +111,9 @@ ubiquitous American staple—peanut butter.
        attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
+       
+<param ve-audio
+       url="https://upload.wikimedia.org/wikipedia/commons/9/92/Goober_Peas.ogg">
       
 
 Instrumental to the rise of the peanut was <span eid="Q296898">George Washington Carver</span>, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A [1916 Tuskegee Institute report](https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up) illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^13] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^14] 
