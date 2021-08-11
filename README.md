@@ -52,7 +52,40 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
        url="Peanut Florentine Codex.png">
     
 ### Out of the Americas
-Peanuts were encountered by Europeans for the first time on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^8] 
+Peanuts were encountered by Europeans for the first time on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^8]
+<param ve-map-layer geojson active url="traderoutesmap.json">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="16.564, -102.502"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-27.059, 34.409"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="11.189,-15.304"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="12.619, 74.718"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="2.070,102.338"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="14.743,120.278"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="23.282,114.060"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-13.776,13.887"
+	size="5, 5"
+	circle="true">
 
 While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands in the late sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was  transported to Portuguese India, where it was initially termed the "Mozambique bean", and also to China.
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  
