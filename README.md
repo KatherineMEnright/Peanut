@@ -93,8 +93,8 @@ While the arrival of the peanut in Europe was relatively slow, Spanish Galleons 
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus'"discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow. Peanuts grew in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving, from The Met, shows a pair of peanuts with red dates . The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children.
 
  <param ve-image
-       label=""Peanuts and jujube dates" (18th Century)"
-	description= "Qing Dynasty carving in chalcedony"
+       label="Peanuts and jujube dates(18th Century)"
+	description="Qing Dynasty carving in chalcedony"
        attribution="The Metropolitan Museum of Art"
        license="Public Domain"
        url="https://www.metmuseum.org/art/collection/search/44155">
