@@ -194,15 +194,16 @@ The ubiquitous peanut we know today has a rich global history. Having been trans
 [^6]: Fray Bernardino de Sahagún, *Historia general de las cosas de Nueva España*, Vol. XI: de las cosas naturales, 1577. 
 [^7]:  Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
 [^8]: Smith, *Peanuts: The Illustrious History of the Goober Pea*.
-[^9]: 杨子器 Yang Ziqi. (弘治)常熟縣志4卷 *Hongzhi Changshuxian zhi si juan* [Changshu County Local Gazeteer (Reign of the Hongzhi Emperor)]. 1503. Beijing Airusheng shuzihua jishu yanjiu zhongxin 北京爱如生数字化技术研究中心. Zhongguo jiben guji ku 中国基本古籍库 [Database of Chinese Classic Ancient Books].
-[^11]:Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York ; Chichester: Columbia University Press, 2013), 7.
-[^12]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/
+[^9]: 杨子器 Yang Ziqi, (弘治)常熟縣志4卷 *Hongzhi Changshuxian zhi si juan* [Changshu County Local Gazeteer (Reign of the Hongzhi Emperor)], 1503, accessed via Beijing Airusheng shuzihua jishu yanjiu zhongxin 北京爱如生数字化技术研究中心. Zhongguo jiben guji ku 中国基本古籍库 [Database of Chinese Classic Ancient Books].
+[^10]: "Peanuts and jujube dates, 18th century," *The Metropolitan Museum of Art*, https://www.metmuseum.org/art/collection/search/44155.
+[^11]: Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York ; Chichester: Columbia University Press, 2013), 7.
+[^12]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/.
 [^13]: George Washington Carver, “How to grow the peanut, and 105 ways of preparing it for human consumption,” Tuskegee Institute, 1916. https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up
 [^14]: Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
 [^15]: John S. Pughe (1870-1909) artist, "Puck's presidential impossibility. The political peanut vender," N.Y. : Published by Keppler & Schwarzmann, 1894.
 [^16]: Charles Jay Taylor (1855-1929), *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*, 1894.
-[^17]: Frohman, Charles. “Charles Frohman's Production, the Circus Girl.” The Library of Congress. Accessed August 6, 2021. https://www.loc.gov/resource/var.0837/.
-[^18]: Mahony, Felix. “Wait, Don't Buy an Elephant. Bill Taft Is Coming with a Real Live Peanut EATING ELEPHANT.” The Library of Congress. Accessed August 6, 2021. https://www.loc.gov/resource/acd.2a10174/.
+[^17]: Charles Frohman, “Charles Frohman's Production, the Circus Girl,” *The Library of Congress,* accessed August 6, 2021, https://www.loc.gov/resource/var.0837/.
+[^18]: Felix Mahony, “Wait, Don't Buy an Elephant. Bill Taft Is Coming with a Real Live Peanut EATING ELEPHANT,” *The Library of Congress,* accessed August 6, 2021, https://www.loc.gov/resource/acd.2a10174/.
 [^19]: Harold J. Clay, and Paul M. Williams, *Marketing peanuts*, Washington, D.C: U.S. Dept. of Agriculture, 1926. https://doi.org/10.5962/bhl.title.108735. p.47, 74.
 [^20]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.334. https://doi.org/10.5962/bhl.title.43671.
 [^21]: Frank Selman Arant, *The Peanut, the unpredictable legume; a symposium.* Washington, National Fertilizer Association, 1951. https://doi.org/10.5962/bhl.title.57505.
