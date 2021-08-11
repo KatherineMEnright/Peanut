@@ -11,7 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
 ### A Nut in Name Alone
-In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, <span eid="Q37383">*Arachis hypogaea*</span> (hypo- [under], gaea [earth]), reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut plant, <span eid="Q37383">*Arachis hypogaea*</span> (hypo- [under], gaea [earth]), reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
 <param ve-image 
        label="Illustration of the Arachis hypogaea Plant" 
        attribution="Franz Eugen Köhler, "Medizinal-Pflanzen" (1887)"
@@ -19,7 +19,7 @@ In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut<
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
 
-While the largest peanut producing nations nowadays include India, China, and the USA, this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
+While the largest peanut producing nations nowadays include China, India, Nigeria, and the USA, this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world, with its estimated origin area shown in red">  
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
@@ -120,7 +120,7 @@ Instrumental to the rise of the peanut was <span eid="Q296898">George Washington
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg/2139px-GEORGE_WASHINGTON_CARVER_-_ONE_OF_AMERICA%27S_GREAT_SCIENTISTS_-_NARA_-_535694.jpg">
            
-At the turn of the century recipes began to appear for the food that would become a ubiquitous American staple——peanut butter.
+Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. At the turn of the century recipes began to appear for the food that would become a ubiquitous American staple——peanut butter. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter.[^13]
 
 <param ve-iframe src="https://search.alexanderstreet.com/embed/token/05c7goj5c9i7ocho6krjac9j?account_id=11311&usage_group_id=103838">
 
@@ -185,8 +185,10 @@ The <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the pean
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
 
-### Peanut Colonialism and Capitalism
-As this essay has shown, the global distribution and consumption of peanuts is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this <span eid="Q2046345">colonial Nigeria</span> stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter.[^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
+### The Legacy of Peanut Colonialism and Capitalism
+As we have seen over the course of this essay, the ubiquitous peanut has a rich global history. The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike. 
+
+The global distribution and consumption of peanuts is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this <span eid="Q2046345">colonial Nigeria</span> stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
 <param ve-image
        label="Stamp of Colonial Nigeria showing groundnuts, 1953."
        description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
@@ -194,8 +196,6 @@ As this essay has shown, the global distribution and consumption of peanuts is i
        license="public domain, sourced from wikimedia commons"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/6/60/BR-NGA_1953_MiNr0073_pm_B002.jpg">
-
-The ubiquitous peanut we know has a rich global history. The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 
 ### References
 
