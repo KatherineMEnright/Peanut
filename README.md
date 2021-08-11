@@ -137,32 +137,37 @@ Another artifact, the political chromolithograph published in 1894 by <span eid=
        description="Political Satire shows U.S politician as peanut vendor selling roasted peanuts"
        attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
+       fit="contain"
        url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
 <param ve-image
        label="The peanut Hagenbeck and his senatorial courtesy animal show, 1894." 
        description="Political Satire in 1894 N.Y Magazine Publication" 
        attribution="Taylor, Charles Jay, 1855-1929, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print" 
        license="No known restrictions on publication."
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/9/91/The_%22peanut%22_Hagenbeck_and_his_%22senatorial_courtesy%22_animal_show_-_C.J._Taylor._LCCN2012648757.jpg">
 <param ve-image
        label="Charles Frohman's production, The circus girl, 1897." 
        description="Theatrical poster showing person feeding elephants peanuts at the circus."
        attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
        license="No known restrictions on publication."
+       fit="contain"
        url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
        
 The text *Marketing Peanuts* (1926) interestingly notes the prohibition of the sale of shelled peanuts in some cities in the U.S to avoid the littering of peanut shells by the customers.[^19] While peanut shells are perceived as ‘waste’ or litter in one context, the hull and broken peas left over after the de-shelling process, are sold to farmers and used in the preparation of livestock feed and fertilizer called peanut cakes especially during years of low quality crop or poor prices. A notable farming practice is the <span eid="Q254615">gleaning</span> of the fields by hogs after the peanut crop has been harvested.[^20]
 <param ve-image
        label="Marketing peanuts, 1926. (p.47)"
        description="Image and text describing peanut vendors"
-       attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
+       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
        license="Public Domain."
+       fit="contain"
        url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
 <param ve-image
        label="Marketing peanuts, 1926. (p.74)"
        description=" Image and text describing peanut cakes"
-       attribution="Clay, Harold J. (Harold Johnson), Williams, Paul M. (Paul Maxwell). Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
+       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
        license="public domain"
+       fit="contain"
        url="https://www.biodiversitylibrary.org/pageimage/48681114#page/84/mode/1up">
        
 ### Multispecies Consumption: Insects, Fungi, Bacteria
@@ -180,6 +185,7 @@ The peanut has been perceived as as a luxury food in some cultural contexts and 
        description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
        attribution="Royal Mail of the United Kingdom for Nigeria. Public Domain. Wikimedia Commons."
        license="public domain, sourced from wikimedia commons"
+       fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/6/60/BR-NGA_1953_MiNr0073_pm_B002.jpg">
        
 Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter.[^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
