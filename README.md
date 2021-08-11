@@ -176,7 +176,7 @@ Humans are not the only consumers of the peanut plant. In texts on peanut cultiv
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
 
-The roots of the peanut plant are a center for multi-species reciprocity with <span eid="Q56455647">nitrogen-fixing bacteria</span> which take from and give back to the soil. The peanut plant heals and replenishes the soil and is therefore cultivated as an environmental inetrvention method to maintain soil health. Even after harvesting the plant, the peanut shells are sometimes returned to the soil to be used as fertilizer; to be 'consumed' by the soil.
+The roots of the peanut plant are a center for multi-species reciprocity with <span eid="Q9164450">nitrogen-fixing bacteria</span> which take from and give back to the soil. The peanut plant heals and replenishes the soil and is therefore cultivated as an environmental inetrvention method to maintain soil health. Even after harvesting the plant, the peanut shells are sometimes returned to the soil to be used as fertilizer; to be 'consumed' by the soil.
 <param ve-image
        label="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward, 1923."
        description="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward; soil removed to show some of its ripe fruit, 1923."
