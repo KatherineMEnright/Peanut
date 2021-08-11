@@ -90,7 +90,7 @@ While the arrival of the peanut in Europe was relatively slow, Spanish Galleons 
 	size="20, 20"
 	circle="true">
 	
-The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus'"discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow. Peanuts rose in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving from the Qing Dynasty shows a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children. [^9]
+The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus'"discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow. [^9] Peanuts rose in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving from the <span eid="Q8733">Qing Dynasty</span> shows a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children. [^10]
 
  <param ve-image
        label="Peanuts and jujube dates(18th Century)"
@@ -102,7 +102,7 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 
 ### Mass Consumption: Peanuts as American Staple
        
- Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from *nguba* in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from *mpinda* in the Kongo language. [^10] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^11] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a 
+ Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from *nguba* in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from *mpinda* in the Kongo language. [^11] Once a high-status foodstuff in the pre-Colombian Americas, in the early 19th century peanuts were often planted in slave communities and otherwise used as feed for livestock. It was around the Civil War that peanuts became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed Northern whale oil as machinery lubricant. [^12] The popularity of peanuts at the time is commemorated in the southern folk song “Goober Peas.” After the war, spurred on by advances in agricultural technology, the peanut spread throughout the country and at the turn of the century recipes began to appear for the food that would become a 
 ubiquitous American staple—peanut butter.
             
 <param ve-image 
@@ -113,7 +113,7 @@ ubiquitous American staple—peanut butter.
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
       
 
-Instrumental to the rise of the peanut was <span eid="Q296898">George Washington Carver</span>, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A [1916 Tuskegee Institute report](https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up) illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^12] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^13] 
+Instrumental to the rise of the peanut was <span eid="Q296898">George Washington Carver</span>, the pioneering Black agricultural scientist, who devoted much of his career to popularizing the crop. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton in the American South. Peanuts, as nitrogen-fixing legumes, could enrich nutrient-depleted soils as part of a crop rotation that would boost the yield of future cotton plantings. A [1916 Tuskegee Institute report](https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up) illustrates Carver’s incredible creativity in devising 105 recipes for peanut-based foods; he also invented a number of other uses for peanuts, including products made from peanut oil. [^13] An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale—he even testified on behalf of peanut farmers before Congress and helped include protections for domestic peanuts against rising Chinese imports in 1922. [^14] 
        
  <param ve-image
        label="George Washington Carver - One of America's Greatest Scientists(1943)"
@@ -194,12 +194,11 @@ The ubiquitous peanut we know today has a rich global history. Having been trans
 [^6]: Fray Bernardino de Sahagún, *Historia general de las cosas de Nueva España*, Vol. XI: de las cosas naturales, 1577. 
 [^7]:  Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
 [^8]: Smith, *Peanuts: The Illustrious History of the Goober Pea*.
-[^9]: Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York ; Chichester: Columbia University Press, 2013), 7.
-[^10]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/
-[^11]: George Washington Carver, “How to grow the peanut, and 105 ways of preparing it for human consumption,” Tuskegee Institute, 1916. https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up
-[^12]:  Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
-[^13]: Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
-[^14]: Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food,* 132-136.
+[^9]: 杨子器 Yang Ziqi. (弘治)常熟縣志4卷 Hongzhi Changshuxian Zhi Sijuan [Changshu County Local Gazeteer (Reign of the Hongzhi Emperor)]. 1503. Beijing Airusheng shuzihua jishu yanjiu zhongxin 北京爱如生数字化技术研究中心. Zhongguo jiben guji ku 中国基本古籍库 [Database of Chinese Classic Ancient Books].
+[^11]:Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York ; Chichester: Columbia University Press, 2013), 7.
+[^12]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/
+[^13]: George Washington Carver, “How to grow the peanut, and 105 ways of preparing it for human consumption,” Tuskegee Institute, 1916. https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up
+[^14]: Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
 [^15]: John S. Pughe (1870-1909) artist, "Puck's presidential impossibility. The political peanut vender," N.Y. : Published by Keppler & Schwarzmann, 1894.
 [^16]: Charles Jay Taylor (1855-1929), *The "peanut" Hagenbeck and his "senatorial courtesy" animal show*, 1894.
 [^17]: Frohman, Charles. “Charles Frohman's Production, the Circus Girl.” The Library of Congress. Accessed August 6, 2021. https://www.loc.gov/resource/var.0837/.
@@ -208,12 +207,10 @@ The ubiquitous peanut we know today has a rich global history. Having been trans
 [^20]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.334. https://doi.org/10.5962/bhl.title.43671.
 [^21]: Frank Selman Arant, *The Peanut, the unpredictable legume; a symposium.* Washington, National Fertilizer Association, 1951. https://doi.org/10.5962/bhl.title.57505.
 [^21]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.331.  https://doi.org/10.5962/bhl.title.43671.
+[^22]:Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
+[^23]: Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food,* 132-136.
 
 
-
-
-
-       
 
 
 
