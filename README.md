@@ -10,7 +10,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
-### Introduction
+### A Nut in Name Alone
 In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, *Arachis hypogaea*, reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
 <param ve-image 
        label="Arachis hypogaea illustration" 
@@ -90,7 +90,7 @@ While the arrival of the peanut in Europe was relatively slow, Spanish Galleons 
 	size="20, 20"
 	circle="true">
 	
-The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus'"discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow. Peanuts grew in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving, from The Met, shows a pair of peanuts with red dates . The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children.
+The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus'"discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow. Peanuts rose in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving from the Qing Dynasty shows a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children. [^9]
 
  <param ve-image
        label="Peanuts and jujube dates(18th Century)"
