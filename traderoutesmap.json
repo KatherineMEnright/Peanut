@@ -10155,7 +10155,8 @@
       "type": "Feature",
       "properties": {
         "fill": "#3071e8",
-        "stroke": 0
+        "stroke": 0,
+        "stroke-width": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -10870,7 +10871,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#3071e8"
+        "stroke": "#3071e8",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
