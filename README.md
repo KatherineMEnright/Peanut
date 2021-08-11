@@ -97,7 +97,7 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 	description="Qing Dynasty carving in chalcedony"
        attribution="The Metropolitan Museum of Art"
        license="Public Domain"
-       url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/44155/196160/main-image5">
+       url="https://images.metmuseum.org/CRDImages/as/original/DP267534.jpg">
     
 
 ### Mass Consumption: Peanuts as American Staple
