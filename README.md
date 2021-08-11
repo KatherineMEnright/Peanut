@@ -3,7 +3,7 @@
 <param ve-config 
        title="A Global History of Peanut Consumption: From Luxury Food to Livestock Feed"
        author="Maria Job, Elizabeth Chant, and Katherine Enright"
-       banner="https://github.com/KatherineMEnright/Peanut/blob/main/Peanut%20Banner.jpeg"
+       banner="https://github.com/KatherineMEnright/Peanut/blob/3b426c18b855ddf44d7496a5c29aae8c97247ec4/Peanut%20Banner.jpeg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
