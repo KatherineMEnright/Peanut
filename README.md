@@ -172,11 +172,13 @@ Humans are not the only consumers of the peanut plant. In texts on peanut cultiv
        center="Arachis hypogaea">
 
 ### Conclusion
-The ubiquitous peanut we know has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this Colonial Nigerian stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy. Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
+The ubiquitous peanut we know has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this colonial Nigerian stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria.
+
+The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 <param ve-image
        label="Stamp of Colonial Nigeria showing groundnuts, 1953."
        description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
-       attribution="Royal Mail of the United Kingdom for Nigeria. Wikimedia Commons."
+       attribution="Royal Mail of the United Kingdom for Nigeria. Public Domain. Wikimedia Commons."
        license="public domain, sourced from wikimedia commons"
        url="https://upload.wikimedia.org/wikipedia/commons/6/60/BR-NGA_1953_MiNr0073_pm_B002.jpg">
        
@@ -209,6 +211,8 @@ Today, the U. S. is the fourth-largest peanut producer, after China, India, and 
 [^21]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.331.  https://doi.org/10.5962/bhl.title.43671.
 [^22]:Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
 [^23]: Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food,* 132-136.
+[^24]: Royal Mail of the United Kingdom for Nigeria, Public domain, via Wikimedia Commons.https://commons.wikimedia.org/wiki/File:BR-NGA_1953_MiNr0073_pm_B002.jpg
+
 
 
 
