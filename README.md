@@ -3,7 +3,7 @@
 <param ve-config 
        title="A Global History of Peanut Consumption: From Luxury Food to Livestock Feed"
        author="Maria Job, Elizabeth Chant, and Katherine Enright"
-       banner="https://github.com/KatherineMEnright/Peanut/blob/main/Peanut%20Banner.jpeg?raw=true"
+       banner="https://github.com/KatherineMEnright/Peanut/blob/main/A_Peanut_Plant,_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpgEDITED.jpg?raw=true"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -186,7 +186,7 @@ The roots of the peanut plant are a center for multi-species reciprocity with ni
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
 
 ### Peanut Colonialism and Capitalism
-The ubiquitous peanut we know has a rich global history. Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this colonial Nigerian stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter.[^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
+Having been transported in slave ships, the legume is intricately tied to histories of colonialism and slavery. As recently as 1953, the peanut's ties to colonialism is found in this colonial Nigerian stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. Today, the U. S. is the fourth-largest peanut producer, after China, India, and Nigeria. Yet Americans consume the greatest quantity of peanuts annually of any nation, a phenomenon due at least in part to the widespread popularity of peanut butter, which is a distinctly North American foodstuff—in 2020, 56% of U.S.-grown peanuts were processed into peanut butter.[^13] The American Empire shaped the peanut-related foodways of its colonies as well—peanut butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
 <param ve-image
        label="Stamp of Colonial Nigeria showing groundnuts, 1953."
        description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
@@ -195,7 +195,7 @@ The ubiquitous peanut we know has a rich global history. Having been transported
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/6/60/BR-NGA_1953_MiNr0073_pm_B002.jpg">
 
-The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
+The ubiquitous peanut we know has a rich global history. The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 
 ### References
 
