@@ -53,7 +53,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
     
 ### Out of the Americas
 Peanuts were encountered by Europeans for the first time on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the early sixteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^7] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^8]
-<param ve-map-layer geojson active url="traderoutesmap.json">
+<param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  <param ve-map-layer geojson active url="traderoutesmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="16.564, -102.502"
 	size="5, 5"
@@ -84,6 +84,10 @@ Peanuts were encountered by Europeans for the first time on the Caribbean island
 	circle="true">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-13.776,13.887"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="18.709,-71.323"
 	size="5, 5"
 	circle="true">
 
@@ -120,6 +124,10 @@ While the arrival of the peanut in Europe was relatively slow, <span eid="Q68384
 	circle="true">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-13.776,13.887"
+	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="18.709,-71.323"
 	size="5, 5"
 	circle="true">
 	
@@ -159,7 +167,7 @@ Today, the U. S. is the fourth-largest peanut producer, after China, India, and 
 
 
 ### Peanuts, Politics, and Public Space
-A characteristic feature in the history of peanuts is their presence in public spaces. The vendor selling peanuts, roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, is a practice that continues throughout the globe. The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">*El manisero* (*The Peanut Vendor*)</span> composed by the Cuban composer and song-writer <span eid="Q661928">Moisés Simons</span>. The composition is sung from the perspective of the seller, and was a hugely influential example of the African and Afro-Cuban influenced <span eid="Q4428744">*son*</span> and <span eid="Q5681688">*pregón*</span> genres that went on to be recorded over 160 times, including in English. *El manisero* was added to the [2005 National Recording Registry](https://www.loc.gov/item/prn-06-083/) in recognition of its influence in the history of Latin American music. The lyrics describe the vendor trying to tempt a housewife to buy a cone of peanuts, and include his repeated sales cry of '*maní*,*maní*,*maní*', a typical feature of *pregones*.
+A characteristic feature in the history of peanuts is their presence in public spaces. The vendor selling peanuts, roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, is a practice that continues throughout the globe. The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">*El manisero* [*The Peanut Vendor*]</span> by the Cuban composer and song-writer <span eid="Q661928">Moisés Simons</span>. The composition is sung from the perspective of the seller, and was a hugely influential example of the African and Afro-Cuban influenced <span eid="Q4428744">*son*</span> and <span eid="Q5681688">*pregón*</span> genres that went on to be recorded over 160 times, including in English. In 2005, *El manisero* was added to the [National Recording Registry](https://www.loc.gov/item/prn-06-083/) in recognition of its influence in the history of Latin American music. The lyrics describe the vendor trying to tempt a housewife to buy a cone of peanuts, and include his repeated sales cry of '*maní*, *maní*, *maní*', a typical feature of *pregones*.
 <param ve-video
 	id="essMVyS1Om0"
 	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal).">
