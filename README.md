@@ -90,6 +90,14 @@ Peanuts were first encountered by the Spanish on the Caribbean island of <span e
 	coords="18.709,-71.323"
 	size="5, 5"
 	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-18.5,-64.061"
+	size="129, 170"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-19.404,-41.001"
+	size="129, 170"
+	circle="true">
 
 While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands throughout the sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had also encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was  transported to Portuguese India, where it was initially termed the "Mozambique bean", and also to China.
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  
@@ -129,6 +137,14 @@ While the arrival of the peanut in Europe was relatively slow, <span eid="Q68384
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="18.709,-71.323"
 	size="5, 5"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-18.5,-64.061"
+	size="129, 170"
+	circle="true">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-19.404,-41.001"
+	size="129, 170"
 	circle="true">
 	
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus' "discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow.[^9] Peanuts rose in popularity in Chinese cuisine, and came to be depicted in art as well. This agate carving from the <span eid="Q8733">Qing Dynasty</span> shows a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children.[^10]
