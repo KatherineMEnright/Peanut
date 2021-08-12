@@ -163,7 +163,6 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
             
 <param ve-image 
        label="Lyrics of the folk song 'Goober Peas'" 
-       description="Painting by John Haberle (1856-1933)" 
        attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
