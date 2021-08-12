@@ -40,6 +40,7 @@ As "El Inca" suggests, peanuts were more than just an important food source, the
 <param ve-image
        label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 A.D."
        attribution="Artstor Slide Gallery/ University of California, San Diego"
+       fit="contain"
        url="Peanut Necklace.jpg">
        
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the <span eid="Q12542">Aztec</span> capital of <span eid="Q13695">Tenochtitlan</span>, the location of present day Mexico City, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^5] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. They are included in Book Eleven, *Earthly Things*, of the twelve-volume *General History of the Things of New Spain*, also known as the <span eid="Q1106019">Florentine Codex</span>, which was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century and gave a comprehensive account of Aztec culture, society and natural history in order to facilitate Spanish evagelization work. Here, *tlalacacahuatl* is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^6]
@@ -48,7 +49,6 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
        label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
        attribution="World Digital Library"
        license="public domain"
-       fit="contain"
        url="Peanut Florentine Codex.png">
     
 ### Out of the Americas
