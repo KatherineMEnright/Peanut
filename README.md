@@ -194,16 +194,6 @@ The political <span eid="Q89503149">chromolithograph</span> published in 1894 by
        fit="contain"
        url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
        
-### The Legacy of Peanut Colonialism and Capitalism
-The global distribution and consumption of peanuts is intricately tied to histories of <span eid="Q7167">colonialism</span> and <span eid="Q8463">slavery</span>. As recently as 1953, this <span eid="Q2046345">colonial Nigeria</span> stamp shows both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^25] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. The American Empire shaped the peanut-related foodways of its colonies as well: peanut-butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
-<param ve-image
-       label="Stamp of Colonial Nigeria showing groundnuts, 1953."
-       description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
-       attribution="Royal Mail of the United Kingdom for Nigeria. Public Domain. Wikimedia Commons."
-       license="public domain, sourced from wikimedia commons"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/60/BR-NGA_1953_MiNr0073_pm_B002.jpg">
-       
 ### Multispecies Consumption: Insects, Fungi, Bacteria
 Humans, animlas, and birds are not the only consumers of the peanut plant. In texts on peanut cultivation for human consumption like *The Peanut, the unpredictable legume; a symposium* (1951) published by the National Fertilizer Association in the U.S, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^20] Insects like the Indian Meal Moth, <span eid="Q2893450">Almond Moth</span>, Saw-toothed Grain Beetle, and <span eid="Q102347715">Flour Beetles</span> are observed to consume peanuts after their harvest and when they are in storage. The consumption of the peanut plant by the insect is represented within the text as 'infestation' by 'pests' which cause [crop damage](https://www.kew.org/read-and-watch/insect-pests-biggest-threat-plants) directly translating to economic ‘damage’. The insects in the network visualization are but a few of the many wondrous creatures that share humanity’s appetite for the peanut plant. While this network is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
 <param ve-d3plus-ring-network 
