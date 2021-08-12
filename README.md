@@ -223,8 +223,7 @@ As we have seen over the course of this essay, the ubiquitous peanut has a rich 
 
 ### References
 
-Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
-
+[^0]: Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42, https://doi.org/10.1007/978-94-011-0733-4_2.
 [^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al, 'The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut', *Nature Genetics* 48, no. 4 (2016):438–446, https://doi.org/10.1038/ng.3517.
 [^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," *Science* 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
