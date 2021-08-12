@@ -209,7 +209,7 @@ The text also notes other life forms that consume the peanut which include bacte
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
        
-As we have seen over the course of this essay, the ubiquitous peanut has a rich global history tied to histories of colonialism and slavery.The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal allergic reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike. 
+As we have seen over the course of this essay, the ubiquitous peanut has a rich global history tied to histories of colonialism and slavery.The peanut has been perceived as as a luxury food in some cultural contexts and as cheap livestock feed in others. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it, including to humans in many different culinary preparations—and yet is also disproportionately represented among fatal <span eid="Q7157933">allergic</span> reactions to food, a medical phenomenon that continues to puzzle peanut fans and detractors alike. 
 
 ### References
 
