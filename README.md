@@ -214,7 +214,8 @@ Despite the use of the word ["peanut"](https://www.merriam-webster.com/dictionar
        label="'Fresh Roasted (Peanuts)' (1887)" 
        description="Painting by John Haberle (1856-1933)" 
        attribution="Yale University Art Gallery"
-       license="public domain" 
+       license="public domain"
+       fit="contain"
        url="https://images.collections.yale.edu/iiif/2/yuag:f8480014-9101-414c-a8d3-0ca94aaed1fa/full/!1920,1920/0/default.jpg">
 
 
