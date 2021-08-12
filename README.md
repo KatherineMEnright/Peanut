@@ -14,7 +14,7 @@
 In spite of its English name and nutlike taste, the <span eid="Q3621199">peanut</span> is, in fact, not a nut. This mighty <span eid="Q145909">legume</span> is today grown across the world for a variety of uses including human consumption, oil production, and animal feed, as well as playing an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut plant, <span eid="Q37383">*Arachis hypogaea*</span> (hypo- [under], gaea [earth]), reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
 <param ve-image 
        label="Illustration of the Arachis hypogaea Plant" 
-       attribution="Franz Eugen Köhler, "Medizinal-Pflanzen" (1887)"
+       attribution="Franz Eugen Köhler, 'Medizinal-Pflanzen' (1887)"
        license="public domain" 
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg">
