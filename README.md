@@ -195,7 +195,7 @@ The political <span eid="Q89503149">chromolithograph</span> published in 1894 by
        url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
        
 ### The Legacy of Peanut Colonialism and Capitalism
-The global distribution and consumption of peanuts is intricately tied to histories of <span eid="Q7167">colonialism</span> and <span eid="Q8463">slavery</span>. As recently as 1953, the peanut's ties to colonialism is found in this <span eid="Q2046345">colonial Nigeria</span> stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^24] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. The American Empire shaped the peanut-related foodways of its colonies as well: peanut-butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
+The global distribution and consumption of peanuts is intricately tied to histories of <span eid="Q7167">colonialism</span> and <span eid="Q8463">slavery</span>. As recently as 1953, the peanut's ties to colonialism is found in this <span eid="Q2046345">colonial Nigeria</span> stamp showing both the British Crown Queen Elizabeth II and the groundnut plants that were crucial to the Nigerian economy.[^25] Efforts are being made to revive the <span eid="Q17019494">groundnut pyramids</span> that were once a tourist attraction in Kano, Nigeria. The American Empire shaped the peanut-related foodways of its colonies as well: peanut-butter can be found in the Philippines, a former U.S. colony, and in Europe it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^14]
 <param ve-image
        label="Stamp of Colonial Nigeria showing groundnuts, 1953."
        description="Stamp of Nigeria (British colony) showing groundnuts; 1953;"
@@ -210,7 +210,7 @@ Humans, animlas, and birds are not the only consumers of the peanut plant. In te
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
 
-The text also notes other life forms that consume the peanut which include bacterial and fungal entities which leave their unique markers of consumption: “<span eid="Q4840003">bacterial wilt</span> in the East Indies, <span eid="Q58935125">rosette</span> in Africa, and <span eid="Q6508875">leaf spot</span> in the southern United States”.[^20] The <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the peanut plant are a center for multi-species reciprocity with <span eid="Q9164450">nitrogen-fixing bacteria</span> which take from and give back to the soil. The peanut plant heals and replenishes the soil and is therefore cultivated as an environmental inetrvention method to maintain soil health globally. Even after harvesting the plant, the peanut shells are sometimes returned to the soil to be used as fertilizer [^21]; to be again 'consumed' by the soil.
+The text also notes other life forms that consume the peanut which include bacterial and fungal entities which leave their unique markers of consumption: “<span eid="Q4840003">bacterial wilt</span> in the East Indies, <span eid="Q58935125">rosette</span> in Africa, and <span eid="Q6508875">leaf spot</span> in the southern United States”.[^20] The <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the peanut plant as shown in this illustration from *The Encyclopedia of Food* (1923) are the center for multi-species reciprocity with <span eid="Q9164450">nitrogen-fixing bacteria</span> which take from and give back to the soil.[^21] The peanut plant heals and replenishes the soil and is therefore has been cultivated as a global environmental inetrvention method to maintain soil health. Even after harvesting the plant, the peanut shells are sometimes returned to the soil to be used as fertilizer [^22]; to be again 'consumed' by the soil.
 <param ve-image
        label="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward, 1923."
        description="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward; soil removed to show some of its ripe fruit, 1923."
@@ -223,7 +223,6 @@ As we have seen over the course of this essay, the ubiquitous peanut has a rich 
 
 ### References
 
-[^0]: Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42, https://doi.org/10.1007/978-94-011-0733-4_2.
 [^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al, 'The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut', *Nature Genetics* 48, no. 4 (2016):438–446, https://doi.org/10.1038/ng.3517.
 [^2]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru," *Science* 316, no. 5833 (2007): 1890-1893, https://doi.org/10.1126/science.1141395.
@@ -244,10 +243,11 @@ As we have seen over the course of this essay, the ubiquitous peanut has a rich 
 [^17]: Charles Frohman, “Charles Frohman's Production, the Circus Girl,” *The Library of Congress,* accessed August 6, 2021, https://www.loc.gov/resource/var.0837/.
 [^19]: Harold J. Clay, and Paul M. Williams, *Marketing peanuts*, Washington, D.C: U.S. Dept. of Agriculture, 1926. https://doi.org/10.5962/bhl.title.108735. p.47, 74.
 [^20]: Frank Selman Arant, *The Peanut, the unpredictable legume; a symposium.* Washington, National Fertilizer Association, 1951. https://doi.org/10.5962/bhl.title.57505.
-[^21]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.331, 334.  https://doi.org/10.5962/bhl.title.43671.
-[^22]:Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
-[^23]: Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food,* 132-136.
-[^24]: Royal Mail of the United Kingdom for Nigeria, Public domain, via Wikimedia Commons.https://commons.wikimedia.org/wiki/File:BR-NGA_1953_MiNr0073_pm_B002.jpg
+[^21]: Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
+[^22]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.331, 334.  https://doi.org/10.5962/bhl.title.43671.
+[^23]:Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
+[^24]: Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food,* 132-136.
+[^25]: Royal Mail of the United Kingdom for Nigeria, Public domain, via Wikimedia Commons.https://commons.wikimedia.org/wiki/File:BR-NGA_1953_MiNr0073_pm_B002.jpg
 
 
 
