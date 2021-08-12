@@ -183,9 +183,13 @@ Today, the U. S. is the fourth-largest peanut producer, after China, India, and 
 
 ### Peanuts: Politics and Public Space
 A characteristic feature in the history and contemporary life of peanuts was/is their presence in public spaces. The vendor selling peanuts, roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, was and continues to be a gloabal practice. The peanut vendor has a certain public visibility that has led to their represenatation in multiple forms of media. The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">*El manisero* [*The Peanut Vendor*]</span> by the Cuban composer and song-writer <span eid="Q661928">Moisés Simons</span>.[^25] The composition is sung from the perspective of the seller, and was a hugely influential example of the African and Afro-Cuban influenced <span eid="Q4428744">*son*</span> and <span eid="Q5681688">*pregón*</span> genres that went on to be recorded over 160 times, including in English. In 2005, *El manisero* was added to the [National Recording Registry](https://www.loc.gov/item/prn-06-083/) in recognition of its influence in the history of Latin American music. The lyrics describe the vendor trying to tempt a housewife to buy a cone of peanuts, and include his repeated sales cry of "*maní*, *maní*, *maní*", a typical feature of *pregones*.
-<param ve-video
-	id="essMVyS1Om0"
-	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal).">
+<param ve-image
+       label="Marketing peanuts, 1926. (p.47)"
+       description="Image and text describing peanut vendors"
+       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
+       license="Public Domain."
+       fit="contain"
+       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
 
 The political <span eid="Q89503149">chromolithograph</span> published in 1894 by <span eid="Q1584058">Puck magazine</span> titled *"Puck's presidential impossibility. The political peanut vender"*, uses the image of the peanut vendor in its satirical representation of the U.S politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^15] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates a [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self-interest. Besides selling peanuts on the road-side, vendors were often found at other public spaces like circuses, zoos, theatres, and fairs. The ubiquitous prescence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a person offering the circus elephant a peanut.[^17] Notably, peanuts are not good for elephants as they require lesser protein and more fiber content in their diet. Interestingly, the text *Marketing Peanuts* (1926) published by the U.S. Department of Agriculture notes the prohibition of the sale of shelled peanuts in public and amusement spaces in some cities in the U.S to curb the public littering of peanut shells.[^19] While peanut shells were perceived as litter in the context of the public space, the hull and broken peas left over after the industrial de-shelling process was used in the preparation of livestock feed especially during years of low quality crop or poor prices.
 <param ve-image
@@ -202,13 +206,6 @@ The political <span eid="Q89503149">chromolithograph</span> published in 1894 by
        license="No known restrictions on publication."
        fit="contain"
        url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
-<param ve-image
-       label="Marketing peanuts, 1926. (p.47)"
-       description="Image and text describing peanut vendors"
-       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
-       license="Public Domain."
-       fit="contain"
-       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
        
 ### Multispecies Consumption: Insects, Fungi, Bacteria
 Humans, animals, and birds are not the only consumers of the peanut plant. In texts on peanut cultivation for human consumption like *The Peanut, the unpredictable legume; a symposium* (1951) published by the National Fertilizer Association in the U.S, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^20] Insects like the Indian Meal Moth, <span eid="Q2893450">Almond Moth</span>, Saw-toothed Grain Beetle, and <span eid="Q102347715">Flour Beetles</span> are observed to consume peanuts after their harvest and when they are in storage. The consumption of the peanut plant by the insect is represented within the text as 'infestation' by 'pests' which cause [crop damage](https://www.kew.org/read-and-watch/insect-pests-biggest-threat-plants) directly translating to economic ‘damage’. The insects in the network visualization are but a few of the many wondrous creatures that share humanity’s appetite for the peanut plant. While this network is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
