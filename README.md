@@ -259,7 +259,6 @@ Despite the use of the word ["peanut"](https://www.merriam-webster.com/dictionar
 [^23]: Frank Selman Arant, *The Peanut, the unpredictable legume; a symposium.* Washington, National Fertilizer Association, 1951. https://doi.org/10.5962/bhl.title.57505.
 [^24]: Frank Selman Arant, *The Peanut, the unpredictable legume; a symposium.* Washington, National Fertilizer Association, 1951. https://doi.org/10.5962/bhl.title.57505.
 [^25]: Ralph Augustus Waldron, *The peanut (Arachis hypogea)--its history, histology, physiology, and utility*, 1888, Philadelphia, 1918. p.331, 334.  https://doi.org/10.5962/bhl.title.43671.
-[^26]: Percival Perry, “Peanut,” in *The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry*, eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014), 185; American Peanut Council, “The Peanut Industry,” https://www.peanutsusa.com/about-apc/the-peanut-industry.html.
-[^27]: Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
+[^26]: Banner Image: Ward, Artemas. The Encyclopedia of Food. New York: Artemas Ward, 1923.
 
 
