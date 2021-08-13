@@ -228,7 +228,7 @@ Despite the use of the word ["peanut"](https://www.merriam-webster.com/dictionar
        label="Arachis hypogaea 006"
        description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany."
        attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
-       license="Creative Commons Liscense 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+       license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
 
