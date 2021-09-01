@@ -57,7 +57,7 @@ Peanuts were first encountered by the Spanish on the Caribbean island of <span e
 
 While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to <span data-mouseover-map-flyto="15.20,131.31">China, the Philippines, and the Pacific Islands</span> throughout the sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had also encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the <span data-mouseover-map-flyto="-16.13,-12.30">Portuguese enclaves on the West Coast of Africa</span>, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was  transported to <span data-mouseover-map-flyto="2.64,60.29">Portuguese India</span>, where it was initially termed the "Mozambique bean," and also to China.
 <param ve-map
-       zoom="5"
+       zoom="3"
        basemap="Esri_WorldPhysical" 
        title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">
 <param ve-map-layer geojson active url="traderoutesmap.json">
