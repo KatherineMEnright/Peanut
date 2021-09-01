@@ -39,7 +39,7 @@ The cultivated peanut is one of many species of the *Arachis* genus which is tho
 As "El Inca" suggests, peanuts were more than just an important food source, they were also a prestigious item with symbolic and religious importance and a connection to societal elites. The <span eid="Q208188">Moche culture</span> in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive feasts and as a ceremonial offering. The high status of peanuts is perhaps best immortalised in an elaborate gold and silver necklace that was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried.
 <param ve-image
        label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 A.D."
-       attribution="Artstor Slide Gallery/ University of California, San Diego"
+       attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles"
        fit="contain"
        url="Peanut Necklace.jpg">
        
@@ -54,98 +54,10 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 ### Out of the Americas
 Peanuts were first encountered by the Spanish on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the late fifteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^8] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^9]
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  <param ve-map-layer geojson active url="traderoutesmap.json">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="16.564, -102.502"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-27.059, 34.409"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="11.189,-15.304"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="12.619, 74.718"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="2.070,102.338"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="14.743,120.278"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="23.282,114.060"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-13.776,13.887"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="18.709,-71.323"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-18.5,-64.061"
-	size="129, 170"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-19.404,-41.001"
-	size="129, 170"
-	circle="true">
 
-While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to China, the Philippines, and the Pacific Islands throughout the sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had also encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the Portuguese enclaves on the West Coast of Africa, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was  transported to Portuguese India, where it was initially termed the "Mozambique bean," and also to China.
+While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to <span data-mouseover-map-flyto="15.20,131.31">China, the Philippines, and the Pacific Islands</span> throughout the sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had also encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the <span data-mouseover-map-flyto="-16.13,-12.30">Portuguese enclaves on the West Coast of Africa</span>, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was  transported to <span data-mouseover-map-flyto="2.64,60.29">Portuguese India</span>, where it was initially termed the "Mozambique bean," and also to China.
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  
 <param ve-map-layer geojson active url="traderoutesmap.json">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="16.564, -102.502"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-27.059, 34.409"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="11.189,-15.304"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="12.619, 74.718"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="2.070,102.338"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="14.743,120.278"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="23.282,114.060"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-13.776,13.887"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="18.709,-71.323"
-	size="5, 5"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-18.5,-64.061"
-	size="129, 170"
-	circle="true">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-19.404,-41.001"
-	size="129, 170"
-	circle="true">
 	
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus' "discovery" of the Americas. The manuscript describes boiled or cooked peanuts as "delicious" and gives the origin of its Chinese name 落花生 *luo hua sheng* (commonly now just 花生 *hua sheng*), literally "born from a fallen flower," which is how peanuts were thought to grow.[^10] Over the next centuries, peanuts rose in popularity across China as they gradually spread inland from the trading ports of southern coastal cities. Though now ubiquitous in Chinese cuisine, peanuts were a luxury food served at banquets and out of reach for many until the 19th century. The peanut came to be imbued with new cultural meanings as well, as shown in the <span eid="Q8733">Qing Dynasty</span> agate carving to the right depicting a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, *zao*) and peanut (生, *sheng*), are homophones for the first two characters of the auspicious greeting 早生贵子 *zao sheng gui zi*, an encouragement for newly wed couples to soon have children.[^11]
  <param ve-image
