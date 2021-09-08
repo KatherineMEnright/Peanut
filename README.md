@@ -153,11 +153,12 @@ The text also notes other life forms that consume the peanut which include bacte
 Despite the use of the word ["peanut"](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meagre amount in the English language, we have seen over the course of this essay that the peanut has a rich global history which is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from refering to the cheapest seats in the theater as the ["peanut gallery"](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897), a term which was also used as a racist and classist slur in early nineteenth century U.S, to the <span eid="Q17019494">groundnut pyramids</span> that were a status symbol and tourist attraction in Kano, Nigeria in the early twentieth century. From luxury food to livestock feed, the social, cultural, and political life of this legume is extensive. The peanut plant heals and replenishes  soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it-- including to humans in many different culinary preparations-- and yet is also a food that causes fatal <span eid="Q7157933">allergic</span> reactions, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
 <param ve-image
        label="Arachis hypogaea 006"
-       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany."
+       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
        attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
        license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
+       
 
 ### References
 
